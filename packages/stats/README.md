@@ -12,7 +12,7 @@
 
 ### Screenshots
 
-![fps.png](../../files/fps.png)
-![ms.png](../../files/ms.png)
-![mb.png](../../files/mb.png)
-![custom.png](../../files/custom.png)
+![fps.png](files/fps.png)
+![ms.png](files/ms.png)
+![mb.png](files/mb.png)
+![custom.png](files/custom.png)
