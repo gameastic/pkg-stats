@@ -12,7 +12,7 @@
 
 ### Screenshots
 
-![fps.png](files/fps.png)
-![ms.png](files/ms.png)
-![mb.png](files/mb.png)
-![custom.png](files/custom.png)
+![fps.png](https://github.com/gameastic/pkg-stats/blob/main/packages/stats/files/fps.png?raw=true)
+![ms.png](https://github.com/gameastic/pkg-stats/blob/main/packages/stats/files/ms.png?raw=true)
+![mb.png](https://github.com/gameastic/pkg-stats/blob/main/packages/stats/files/mb.png?raw=true)
+![custom.png](https://github.com/gameastic/pkg-stats/blob/main/packages/stats/files/custom.png?raw=true)
