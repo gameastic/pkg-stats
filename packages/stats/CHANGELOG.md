@@ -1,5 +1,11 @@
 # @gameastic/stats
 
+## 1.0.3
+
+### Patch Changes
+
+-   ac1aedc: Readme update
+
 ## 1.0.2
 
 ### Patch Changes
