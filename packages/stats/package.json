@@ -1,0 +1,42 @@
+{
+    "name": "@gameastic/stats",
+    "version": "1.0.0",
+    "license": "MIT",
+    "source": "src/index.ts",
+    "main": "dist/index.js",
+    "author": "https://github.com/gameastic",
+    "description": "Performance Monitor for WebGL",
+    "private": false,
+    "files": [
+        "dist/**/*"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gameastic/stats.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gameastic/stats/issues"
+    },
+    "keywords": [
+        "stats",
+        "pixi-stats",
+        "three-stats",
+        "webgl-stats",
+        "webgl-performance",
+        "fps-monitor",
+        "draw-calls-monitor",
+        "memory-monitor",
+        "textures-monitor",
+        "programs-monitor",
+        "geometries-monitor"
+    ],
+    "homepage": "https://github.com/gameastic/stats#readme",
+    "scripts": {
+        "clean": "rimraf dist && rimraf tsconfig.tsbuildinfo",
+        "test": "jest --config jestconfig.json",
+        "lint": "eslint 'src/**/*.{js,ts,ts}'",
+        "build": "npm run clean && tsc --build"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}

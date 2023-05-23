@@ -1,0 +1,20 @@
+{
+    "name": "example",
+    "version": "1.0.0",
+    "license": "MIT",
+    "source": "index.html",
+    "main": "dist/index.js",
+    "author": "https://github.com/gameastic",
+    "description": "Example for Stats",
+    "private": true,
+    "scripts": {
+        "start": "parcel --port 8080 --cache-dir .parcel-cache"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@gameastic/stats": "*",
+        "parcel": "^2.8.3",
+        "parcel-reporter-static-files-copy": "^1.5.0",
+        "parcel-reporter-clean-dist": "^1.0.4"
+    }
+}
