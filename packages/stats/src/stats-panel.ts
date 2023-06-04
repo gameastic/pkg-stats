@@ -26,7 +26,7 @@ export abstract class AbstractPanel implements IStatsPanel {
         this._min = Infinity;
         this._max = 0;
 
-        const pr = (this._pr = Math.round(window.devicePixelRatio ?? 1));
+        const pr = (this._pr = 2);
         const width = (this._width = 80 * pr);
         const height = (this._height = 48 * pr);
         const textX = (this._textX = 3 * pr);
