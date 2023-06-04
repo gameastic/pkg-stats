@@ -1,5 +1,11 @@
 # @gameastic/stats
 
+## 1.0.4
+
+### Patch Changes
+
+-   62daa7a: Fix: blury texts
+
 ## 1.0.3
 
 ### Patch Changes
